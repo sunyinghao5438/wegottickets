@@ -9,7 +9,7 @@ List<String> words = new ArrayList<String>();
 **words**
 
 | index |0|1| 2|3|4|5|6|
-| --------  | -----:  | :----:  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | word | act | cat |tree | race | care | acre | bee |
 
 ####2. Create a list named anagrams.
