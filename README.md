@@ -115,16 +115,16 @@ Null
 List 2
 words length is 3
 
-| index| 0   | 1    | 2   |
-| -----|:---:|:----:|----:|
-| word | act | cat  | bee |
+| index | 0   | 1    | 2   |
+|:-----:|:---:|:----:|:---:|
+| word  | act | cat  | bee |
 
 List 3
 words length is 4
 
-| index |0|1| 2|3|
-| --------  | -----:  | :----:  |
-| word  |tree | race | care | acre | 
+| index | 0   | 1    | 2   | 3    |
+|:-----:|:---:|:----:|:---:|:----:|
+| word  | tree | race  | care |acre|
 
 ####2. Create a list named anagramsList.
 ```java
