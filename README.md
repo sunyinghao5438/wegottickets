@@ -30,7 +30,7 @@ for (int i = 0; i < words.size(); i++) {
 **anagrams**
  
 | index |0|1| 2|3|4|5|6|
-| --------  | -----:  | :----:  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | position |0|1| 2|3|4|5|6|
 | anagram | act | act |eert | acer | acer | acer | bee |
 
@@ -50,7 +50,7 @@ public int compareTo(Object obj) {
 **anagrams**
  
 | index |0|1| 2|3|4|5|6|
-| --------  | -----:  | :----:  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | position |0|1| 6|3|4|5|2|
 | anagram | act | act |bee | acer | acer | acer | eert |
 
@@ -164,7 +164,7 @@ anagrams 2
 words length is 3
 
 | index |0|1| 2|
-| --------  | -----:  | :----:  |
+|:-----:|:-----:|:-----:|:-----:|
 | position |0|1|2|
 | length |3|3|3|
 | word | act | act  | eeb |
@@ -173,7 +173,7 @@ anagrams 3
 words length is 4
 
 | index |0|1| 2|3|
-| --------  | -----:  | :----:  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
 | position |0|1|2|3|
 | length |4|4|4|4|
 | word  |acer | acer | acer | eert |
@@ -198,7 +198,7 @@ anagrams 2
 words length is 3
 
 | index |0|1| 2|
-| --------  | -----:  | :----:  |
+|:-----:|:-----:|:-----:|:-----:|
 | position |0|1|2|
 | length |3|3|3|
 | word | act | act  | eeb |
@@ -207,7 +207,7 @@ anagrams 3
 words length is 4
 
 | index |0|1| 2|3|
-| --------  | -----:  | :----:  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
 | position |1|2|3|0|
 | length |4|4|4|4|
 | word  |acer | acer | acer | eert |
